@@ -39,6 +39,10 @@
 
  Final output:
 
+ Live link:
+
+ [project live View](https://cpazad.github.io/New_student_db/)
+
 **The New Student Form page**
 ![The New Student Form page](addNewStudentform.png)
 
