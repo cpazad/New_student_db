@@ -1,9 +1,13 @@
 ### CRUD Application - Student Database with PHP
-#### Features:
-- Form to send Students data to database (index.php) </br>
-- Show student data on a table (students.php)
-- table with active/inactive button, show show(link with profile.php), delete button, and Edit button (link with Edit.php)
-- Show single student data in separate page (profile.php) 
+#### Features/pages:
+1. Form to send Students data to database (index.php) </br>
+2. Show student data on a table (students.php). <br>
+        - Table with active/inactive button,<br> 
+        - show show(link with profile.php),<br>
+        - delete button,<br> 
+        - and Edit button (link with Edit.php)br <br>
+3. Show single student data in separate page (profile.php).
+4. Edit data form to update student profile (edit.php) 
 
 -------
 #### Index.php (The form page).
